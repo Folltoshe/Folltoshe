@@ -1,24 +1,14 @@
-## Hi there 👋
+## Hello !
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Folltoshe&show_icons=true&include_all_commits=true)](https://github.com/Folltoshe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Folltoshe)](https://github.com/Folltoshe/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Folltoshe&layout=compact)](https://github.com/Folltoshe/github-readme-stats)
-
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Folltoshe&repo=lx-music-docs)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Folltoshe&show_icons=true&theme=tokyonight)
 
 
-<!--
-**Folltoshe/Folltoshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧰 常用的工具:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
