@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Folltoshe&show_icons=true&include_all_commits=true)](https://github.com/Folltoshe/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Folltoshe&layout=compact)](https://github.com/Folltoshe/github-readme-stats)
+
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Folltoshe&repo=lx-music-docs)
+
 
 <!--
 **Folltoshe/Folltoshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
