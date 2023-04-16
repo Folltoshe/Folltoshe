@@ -1,8 +1,8 @@
 没有人比我更懂摆烂！！！QWQ
 
 ## About Me
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Folltoshe&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Folltoshe)](https://github.com/Folltoshe/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Folltoshe)](https://github.com/Folltoshe)
+[![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Folltoshe&show_icons=true&theme=tokyonight)](https://github.com/Folltoshe)
 
 ![Metrics](https://metrics.lecoq.io/Folltoshe?template=classic&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai)
 
