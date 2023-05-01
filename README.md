@@ -1,4 +1,4 @@
-没有人比我更懂摆烂！！！QWQ
+没有人比我更懂摆烂！！！QAQ
 
 ## About Me
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Folltoshe)](https://github.com/Folltoshe)
