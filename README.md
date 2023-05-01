@@ -1,8 +1,19 @@
 没有人比我更懂摆烂！！！QAQ
 
 ## About Me
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Folltoshe)](https://github.com/Folltoshe)
-[![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Folltoshe&show_icons=true&theme=tokyonight)](https://github.com/Folltoshe)
+
+<p align="center">
+  <a href="https://github.com/Folltoshe">
+    <img src="https://streak-stats.demolab.com?user=Folltoshe&theme=tokyonight&hide_border=true&border_radius=5&locale=zh_Hans&card_width=700" alt="QAQ">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/lyswhut/Folltoshe">
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Folltoshe" alt="QAQ"> -->
+    <img src="https://github-readme-stats-neon-psi-82.vercel.app/api?username=Folltoshe&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" alt="QAQ">
+  </a>
+</p>
 
 ![Metrics](https://metrics.lecoq.io/Folltoshe?template=classic&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai)
 
