@@ -1,4 +1,4 @@
-![bh3](https://i.ibb.co/416hFT9/1-waifu2x-photo-noise3-scale.png)
+
 <div align="center">
   <h3>May all the beauty be blessed.</h3>
   <h4>愿所有的美好都能得到祝福.</h4>
@@ -33,3 +33,5 @@
     <img src="https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github" alt="GitHub">
   </a>
 </div>
+
+<img src="https://i.ibb.co/416hFT9/1-waifu2x-photo-noise3-scale.png" alt="bh3">
