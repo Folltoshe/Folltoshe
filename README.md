@@ -1,5 +1,6 @@
 
 <div align="center">
+  <img src="https://i.ibb.co/nPHxwcZ/1-waifu2x-photo-noise3-scale.png" alt="1-waifu2x-photo-noise3-scale" border="0" />
   <h3>May all the beauty be blessed.</h3>
   <h4>愿所有的美好都能得到祝福.</h4>
 </div>
@@ -33,5 +34,3 @@
     <img src="https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github" alt="GitHub">
   </a>
 </div>
-
-<a href="https://ibb.co/rdCDQ6T"><img src="https://i.ibb.co/nPHxwcZ/1-waifu2x-photo-noise3-scale.png" alt="1-waifu2x-photo-noise3-scale" border="0" /></a>
