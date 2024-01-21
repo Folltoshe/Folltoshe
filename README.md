@@ -1,6 +1,6 @@
 <div align="center">
   <h3>May all the beauty be blessed.</h3>
-  <h4>愿所有的美好都能得到祝福</h4>
+  <h4>愿所有的美好都能得到祝福.</h4>
 </div>
 
 <br />
