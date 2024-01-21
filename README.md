@@ -1,9 +1,8 @@
-<div>
-  <h2 style="border-bottom: 0" align="center">May all the beauty be blessed.</h2>
-  <h4 align="center">愿所有的美好都能得到祝福</h4>
+<div align="center">
+  <h3>May all the beauty be blessed.</h3>
+  <h4>愿所有的美好都能得到祝福</h4>
 </div>
 
-<br />
 <br />
 
 ## About
@@ -33,6 +32,3 @@
     <img src="https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github" alt="GitHub">
   </a>
 </div>
-
-<br />
-<br />
