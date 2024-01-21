@@ -1,4 +1,4 @@
-![1_waifu2x_photo_noise3_scale](https://github.com/Folltoshe/Folltoshe/assets/100350271/e1fdf61f-9b43-443d-a888-1a51f5256b6e)
+![bh3](https://i.ibb.co/416hFT9/1-waifu2x-photo-noise3-scale.png)
 <div align="center">
   <h3>May all the beauty be blessed.</h3>
   <h4>愿所有的美好都能得到祝福.</h4>
