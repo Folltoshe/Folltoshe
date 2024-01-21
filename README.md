@@ -34,4 +34,4 @@
   </a>
 </div>
 
-<img src="https://i.ibb.co/416hFT9/1-waifu2x-photo-noise3-scale.png" alt="bh3">
+<a href="https://ibb.co/rdCDQ6T"><img src="https://i.ibb.co/nPHxwcZ/1-waifu2x-photo-noise3-scale.png" alt="1-waifu2x-photo-noise3-scale" border="0" /></a>
